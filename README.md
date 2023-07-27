@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">1. AutoCAD<br>2. CatiaV5<br>3. Solidworks<br>4. Ansys-Fluent</p>
+<p align="left">1. AutoCAD<br>2. Fusion360<br>3. Solidworks<br>4. CatiaV5<br>5. Ansys-Fluent</p>
 
 ###
 
