@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="33" alt="gmail logo"  />
   <a href="www.linkedin.com/in/ananthananil" target="_blank">
@@ -16,7 +14,9 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="200" src="https://media.giphy.com/media/3o7bu6KDIpS4OFRP6o/giphy.gif"  />
+
+###
 
 <h1 align="left">P R O F E S S I O N A L      <br>S U M M A R Y</h1>
 
@@ -25,8 +25,6 @@
 <p align="left">I am a committed Mechanical Engineer possessing the necessary experience and technical proficiency to deliver unparalleled mechanical component and system assistance. Capable of developing and implementing equipment designs, conducting extensive testing and producing precise specifications, as well as conducting in-depth research on product applications.</p>
 
 ###
-
-<br clear="both">
 
 <h1 align="left">E D U C A T I O N</h1>
 
@@ -50,7 +48,7 @@
 
 ###
 
-<img align="right" height="226" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="226" src="https://media.giphy.com/media/tsSiLdNX2REYS49QJm/giphy.gif"  />
 
 ###
 
