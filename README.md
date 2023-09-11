@@ -130,7 +130,7 @@
 
 <br clear="both">
 
-<h4 align="left">Essential Design with Autodesk Fusion 360 (AP701915096763864962428)<br>Solid Edge Mechanical – Associate Level Certification (https://www.credly.com/earner/earned/badge/091d852e-cbca-47ea-878e- 8766bf4787ad)<br>Autodesk CAD/CAM/CAE for Mechanical Engineering (https://coursera.org/verify/profession al-cert/4UYZZQ6PHW4L)<br>Google Project Management (https://coursera.org/verify/profession al-cert/4UYZZQ6PHW4L)<br>Lean Six Sigma White Belt Certification (Certification Number: ve2hg0ILnc)</h4>
+<h4 align="left">Essential Design with Autodesk Fusion 360 (AP701915096763864962428)<br>Solid Edge Mechanical – Associate Level Certification (https://www.credly.com/earner/earned/badge/091d852e-cbca-47ea-878e- 8766bf4787ad)<br>Autodesk CAD/CAM/CAE for Mechanical Engineering (https://coursera.org/verify/professional-cert/4UYZZQ6PHW4L)<br>Google Project Management (https://coursera.org/verify/professional-cert/4UYZZQ6PHW4L)<br>Lean Six Sigma White Belt Certification (Certification Number: ve2hg0ILnc)</h4>
 
 ###
 
