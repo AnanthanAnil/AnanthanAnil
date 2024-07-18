@@ -98,14 +98,14 @@ Improves its aerodynamic performance compared to the standard version without a 
 * Google Project Management 
 * Lean Six Sigma White Belt Certification
 
-## 🐾 LANGUAGES
+## 🌏 LANGUAGES
 
 * Malayalam - Native proficiency
 * English   - Professional proficiency
 * Hindi     - Limited working proficiency
 * Tamil     - Limited working proficiency
 
-## 🔧 PUBLICATIONS
+## 📜 PUBLICATIONS
 
 ### [Comparative Study on the Aerodynamic Performance of NACA-4412 Airfoil with and Without Slot](https://link.springer.com/chapter/10.1007/978-981-97-0918-2_46)
 
