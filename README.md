@@ -1,6 +1,6 @@
 
 ###
-# ANANTHAN A <img width="590" />  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />  <img width="5" />  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />  <img width="5" />  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />  <img width="5" />  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+# ANANTHAN A <img width="400" />  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />  <img width="5" />  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />  <img width="5" />  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />  <img width="5" />  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
 
 [![Mail](https://img.shields.io/badge/ananthankulathinkara-Gmail-red)](ananthankulathinkara@gmail.com) [![Linkedin](https://img.shields.io/badge/AnanthanAnil-Linkedin-royalblue)](inkedin.com/in/ananthananil) [![Behance](https://img.shields.io/badge/ananthananil-Be-blue
 )](https://www.behance.net/ananthanaanil) [![PRs welcome](https://img.shields.io/badge/ananthananil-GrabCAD-crimson)](https://grabcad.com/ananthan.a-4) [![HackerRank](https://img.shields.io/badge/ananthananil-HackerRank-pine
