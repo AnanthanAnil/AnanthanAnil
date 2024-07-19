@@ -37,7 +37,7 @@ Distinction, [79%]
 ## 🤖 SKILLS
 
 * **Programming** : C, C++, Embedded‑C, Linux, Shell(Bash).
-* **Software** :  SolidWorks, AutoCAD, Fusion360, CatiaV5, Ansys, MS‑Office.
+* **Software** :  MPlabx, SolidWorks, AutoCAD, Fusion360, CatiaV5, Ansys, MS‑Office.
 * **SoftSkills** : TimeManagement, Teamwork, Problem‑solving, Documentation, Leadership.
 
 ## 🔧 PROJECTS
