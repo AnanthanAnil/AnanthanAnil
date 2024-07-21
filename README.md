@@ -65,7 +65,7 @@ A command ‑ line application developed in C,manages contact in formation such 
  * Concepts: Function pointers, String operations, File I/O handling.
  * Technical Skills: Linux, C.
    
-### LSB Image Steganography Project -  Emertxe
+### [LSB Image Steganography Project](https://github.com/AnanthanAnil/LSB-Image-Steganography) -  Emertxe
  
 Developed a command‑line tool for LSB (Least Significant Bit) image steganography. The application supports BMP images and text files for embedding messages, ensuring compatibility by analyzing file sizes. It includes an option to embed a magic string for identification purposes andsupports decryption to retrieve hidden messages.
  * Concepts: Function pointers, File I/O operations, Bitwise operations.
