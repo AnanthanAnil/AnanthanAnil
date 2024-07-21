@@ -91,7 +91,7 @@ Improves its aerodynamic performance compared to the standard version without a 
 
 ## 🐾 CERTIFICATIONS
 
-* Professional Diploma inMechanicalCAD
+* Professional Diploma in Mechanical CAD
 * Essential Design with Autodesk Fusion 360 
 * Solid Edge Mechanical – Associate Level Certification 
 * Autodesk CAD/CAM/CAE for Mechanical Engineering 
