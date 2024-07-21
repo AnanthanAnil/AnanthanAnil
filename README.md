@@ -14,6 +14,14 @@ I am a dedicated and adaptive engineer with a solid foundation in **Mechanical E
 - [Educations](#-education)
 - [Skills](#-skills)
 - [Projects](#-projects)
+  - [Inverted Search]
+  - [Arbitrary Precision Calculator (APC)]
+  - [AddressBook]
+  - [MP3 Tag Reader]
+  - [LSB Image Steganography Project](https://github.com/AnanthanAnil/LSB-Image-Steganography)
+  - Oxygen Concentrator
+  - Numerical Study on the Effect of Slot Spanon Wing Performance of a NACA4412 Airfoil
+  - Effect of Shock Waves on Supersonic Film Cooling with Rectangular and Triangular Slotted Wall
 - [Education](#-education)
 - [Certification](#-certifications)
 - [Languages](#-languages)
