@@ -17,7 +17,7 @@ I am a dedicated and adaptive engineer with a solid foundation in **Mechanical E
   - [Inverted Search]
   - [Arbitrary Precision Calculator (APC)]
   - [AddressBook]
-  - [MP3 Tag Reader]
+  - [MP3 Tag Reader](https://github.com/AnanthanAnil/MP3-Tag-Reader/tree/main)
   - [LSB Image Steganography Project](https://github.com/AnanthanAnil/LSB-Image-Steganography)
   - Oxygen Concentrator
   - Numerical Study on the Effect of Slot Spanon Wing Performance of a NACA4412 Airfoil
@@ -66,7 +66,7 @@ Project in C explores calculations with numbers of unlimited precision, implemen
 A command ‑ line application developed in C,manages contact in formation such as names, phone numbers, and email addresses using standard I/O operations, featuring functionalities for adding, searching, editing contacts, saving data, and exiting the application.
 * Technical Skills: Linux, C.
  
-### [MP3 Tag Reader](https://github.com/nhn/tui.editor/tree/master/docs/en/viewer.md) - Emertxe :
+### [MP3 Tag Reader](https://github.com/AnanthanAnil/MP3-Tag-Reader/tree/main) - Emertxe :
 
  • Acommand‑line application developed in C, reads and displays ID3 tag information from MP3 files, distinguishing between ID3v1 and ID3v2
  versions, with potential for future expansion into a tag editor.”
