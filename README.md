@@ -1,61 +1,76 @@
-<h2 align="center">ANANTHAN ANIL</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<div align="center">
+  <h1>ANANTHAN ANIL</h1>
+  <h3>Embedded Systems Engineer | Mechanical Engineer</h3>
+  
+  <div>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,bash,git,embedded" height="40" alt="skills" />
+  </div>
+  
+  <div>
+    <a href="mailto:ananthankulathinkara@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/ananthan-anil">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.hackerrank.com/profile/ananthankulathi1">
+      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+    </a>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=AnanthanAnil.AnanthanAnil" alt="visitors"/> 
+  </div>
 </div>
 
-###
+---
 
-<br clear="both">
+## 🔍 About Me
+I'm an interdisciplinary engineer transitioning from mechanical design to embedded systems development. My unique background allows me to bridge hardware and software perspectives, creating efficient embedded solutions using:
 
-<div align="right">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+- **Languages**: Embedded C/C++, Python, Bash
+- **Platforms**: Linux (Embedded & Desktop), RTOS
+- **Domains**: Automotive Electronics, IoT, Firmware Development
+
+**Currently focused on**:  
+🔭 ARM-based Embedded Linux & Automotive Protocols  
+🌱 Advanced Data Structures & RTOS development  
+⚡ Fun Fact: Designed mechanical systems before programming them!
+
+---
+
+## 🚀 Featured Projects
+
+### Embedded Systems
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[LSB Steganography](https://github.com/AnanthanAnil/LSB-Image-Steganography)** | Command-line tool for image steganography | C, Bitwise Operations |
+| **[MP3 Tag Reader](https://github.com/AnanthanAnil/MP3-Tag-Reader)** | ID3 tag reader for MP3 files | C, File I/O |
+
+### Mechanical Engineering
+| Project | Description | Tools |
+|---------|-------------|-------|
+| **Oxygen Concentrator** | COVID-19 response project | SolidWorks, ANSYS |
+| **NACA4412 Airfoil Study** | Aerodynamic performance analysis | Published Research |
+
+---
+
+## 📚 Education & Certifications
+- **Embedded Software Engineering** | Emertxe (2023-Present)
+- **B.Tech Mechanical Engineering** | Mar Baselios College (8.0 CGPA)
+- **Certifications**: Autodesk CAD/CAM, Google Project Management
+
+---
+
+## 📜 Publications
+**[Comparative Study on NACA-4412 Airfoil](https://link.springer.com/chapter/10.1007/978-981-97-0918-2_46)**  
+Published in Recent Advances in Mechanical Engineering (Springer, 2024)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnanthanAnil&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthanAnil&layout=compact&theme=radical" />
 </div>
-
-###
-
-<p align="center">ABOUT ME</p>
-
-###
-
-<p align="center">I'm an adaptable engineer with a strong foundation in Mechanical Engineering and specialized training in Embedded Systems. My unique interdisciplinary background allows me to approach problems with both hardware and software perspectives. Passionate about developing efficient, cutting-edge embedded solutions using C/C++, microcontrollers, and Linux systems.</p>
-
-###
-
-<p align="left">🔭 Currently enhancing my skills in Embedded Linux and Automotive Protocols<br>🌱 Learning Python and Advanced Data Structures<br>⚡ Fun fact: Transitioned from designing mechanical systems to programming them!</p>
-
-###
-
-<p align="left">🚀 Featured Projects<br>Embedded Systems<br>LSB Steganography<br>Developed a command-line tool for LSB image steganography supporting BMP images with bitwise operations.<br><br>MP3 Tag Reader<br>C application that reads ID3 tags (v1/v2) from MP3 files with file I/O handling.<br><br>Mechanical Engineering<br>Oxygen Concentrator<br>COVID-19 response project sponsored by TVS Motors, designed using SolidWorks and ANSYS.<br><br>NACA4412 Airfoil Study<br>Numerical analysis of slot span effects on aerodynamic performance (Published in ICMech-REC 2023).</p>
-
-###
-
-<p align="left">📝 Publications<br>Comparative Study on NACA-4412 Airfoil with/without Slot<br>Published in Recent Advances in Mechanical Engineering (Springer, 2024)</p>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnanthanAnil/AnanthanAnil/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnanthanAnil/AnanthanAnil/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnanthanAnil/AnanthanAnil/output/pacman-contribution-graph.svg">
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/AnanthanAnil/AnanthanAnil/output/pacman-contribution-graph.svg" width="100%">
 </picture>
-
-###
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTl0bHVvdWxvOXdlM21vYmVuZDVzdnl4eXF2cGExNXlxbjQycmhhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P1eC0Uo09y6QSxYoq3/giphy.gif"  />
-
-###
