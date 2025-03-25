@@ -1,25 +1,24 @@
 <div align="center">
   <h1>ANANTHAN ANIL</h1>
   <h3>Embedded Systems Engineer</h3>
+ 
+  <div>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,bash,git,embedded" height="40" alt="skills" />
+  </div>
   
-  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <div style="float: left;">
-      <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,bash,git,embedded" height="40" alt="skills" />
-    </div>
-    <div style="float: right;">
-      <a href="mailto:ananthankulathinkara@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-      </a>
-      <a href="https://www.linkedin.com/in/ananthan-anil">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-      <a href="https://www.hackerrank.com/profile/ananthankulathi1">
-        <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
-      </a>
-    </div>
+  <div>
+    <a href="mailto:ananthankulathinkara@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/ananthan-anil">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.hackerrank.com/profile/ananthankulathi1">
+      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+    </a>
   </div>
 </div>
-
+      
 ---
 
 <div align="center">
