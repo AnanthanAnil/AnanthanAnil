@@ -21,8 +21,6 @@
 
 ---
 
----
-
 ## 🔍 About Me
 I'm an interdisciplinary engineer transitioning from mechanical design to embedded systems development. My unique background allows me to bridge hardware and software perspectives, creating efficient embedded solutions using:
 
