@@ -1,6 +1,6 @@
 <div align="center">
   <h1>ANANTHAN ANIL</h1>
-  <h3>Embedded Systems Engineer | Mechanical Engineer</h3>
+  <h3>Embedded Systems Engineer</h3>
   
   <div>
     <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,bash,git,embedded" height="40" alt="skills" />
@@ -15,8 +15,6 @@
     </a>
     <a href="https://www.hackerrank.com/profile/ananthankulathi1">
       <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
-    </a>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=AnanthanAnil.AnanthanAnil" alt="visitors"/> 
   </div>
 </div>
 
@@ -64,13 +62,3 @@ I'm an interdisciplinary engineer transitioning from mechanical design to embedd
 Published in Recent Advances in Mechanical Engineering (Springer, 2024)
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnanthanAnil&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthanAnil&layout=compact&theme=radical" />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnanthanAnil/AnanthanAnil/output/pacman-contribution-graph-dark.svg">
-  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/AnanthanAnil/AnanthanAnil/output/pacman-contribution-graph.svg" width="100%">
-</picture>
