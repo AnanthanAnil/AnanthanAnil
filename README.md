@@ -2,8 +2,7 @@
 ###
 # ANANTHAN A <img width="40" />  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />  <img width="5" />  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />  <img width="5" />  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />  <img width="5" />  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
 
-[![Mail](https://img.shields.io/badge/ananthankulathinkara-Gmail-red)](ananthankulathinkara@gmail.com) [![Linkedin](https://img.shields.io/badge/AnanthanAnil-Linkedin-royalblue)](https://www.linkedin.com/in/ananthananil) [![Behance](https://img.shields.io/badge/ananthananil-Be-blue
-)](https://www.behance.net/ananthanaanil) [![PRs welcome](https://img.shields.io/badge/ananthananil-GrabCAD-crimson)](https://grabcad.com/ananthan.a-4) [![HackerRank](https://img.shields.io/badge/ananthananil-HackerRank-pine
+[![Mail](https://img.shields.io/badge/ananthankulathinkara-Gmail-red)](ananthankulathinkara@gmail.com) [![Linkedin](https://img.shields.io/badge/AnanthanAnil-Linkedin-royalblue)](https://www.linkedin.com/in/ananthan-anil)  [![HackerRank](https://img.shields.io/badge/ananthananil-HackerRank-pine
 )](https://www.hackerrank.com/profile/ananthankulathi1)
 
 I am a dedicated and adaptive engineer with a solid foundation in **Mechanical Engineering** and a focused transition into **Embedded Systems** Engineering. With a Bachelor’s degree in Mechanical Engineer and comprehensive hands‑on experience in embedded systems,I bring a unique inter disciplinary approach to problem‑solving and innovation. My journey from Mechanical Engineering to Embedded Systems has equipped me with adiverse skill set, including proficiency in **C/C++** and **microcontroller programming**. I am passionate about leveraging this blend of knowledge to develop efficient, cutting‑edge solutions in the realm of embedded technology.
