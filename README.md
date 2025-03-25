@@ -1,14 +1,27 @@
-<div align="center"># ANANTHAN ANIL
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="text-align: left;">
+    <h1>ANANTHAN ANIL</h1>
+    <h3>Embedded Systems Engineer</h3>
+  </div>
+  <div style="text-align: right;">
+    <div>
+      <a href="mailto:ananthankulathinkara@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="24" alt="Gmail"/>
+      </a>
+      <a href="https://www.linkedin.com/in/ananthan-anil">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="24" alt="LinkedIn"/>
+      </a>
+      <a href="https://www.hackerrank.com/profile/ananthankulathi1">
+        <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" height="24" alt="HackerRank"/>
+      </a>
+    </div>
+    <div style="margin-top: 10px;">
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,bash,git,embedded" height="30" alt="skills"/>
+    </div>
+  </div>
+</div>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananthankulathinkara@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananthan-anil)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/ananthankulathi1)
-
-**Embedded Systems Engineer**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,py,linux,bash,git,embedded" height="40" alt="skills" />
-
-----
+---
 
 ## 🔍 About Me
 I'm an interdisciplinary engineer transitioning from mechanical design to embedded systems development. My unique background allows me to bridge hardware and software perspectives, creating efficient embedded solutions using:
