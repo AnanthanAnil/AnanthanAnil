@@ -13,3 +13,15 @@ Building a custom RTOS for ARM Cortex-M4 microcontrollers
 Creating Python automation scripts for embedded testing workflows
 
 Contributing to open-source embedded projects
+
+🚀 Featured Projects
+LSB Image Steganography
+Repo
+
+<div align="center"> <img src="https://github.com/AnanthanAnil/AnanthanAnil/assets/123456789/your-gif-id" alt="steganography demo" width="60%"/> </div>
+MP3 Tag Reader
+Repo
+
+<div align="center"> <img src="https://github.com/AnanthanAnil/AnanthanAnil/assets/123456789/your-gif-id" alt="mp3 reader demo" width="60%"/> </div>
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnanthanAnil&show_icons=true&theme=radical&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthanAnil&layout=compact&theme=radical&langs_count=6" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnanthanAnil&theme=radical" alt="streak stats"/> </div>
