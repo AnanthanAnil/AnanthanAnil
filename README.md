@@ -1,13 +1,12 @@
 <div align="center">
   <h1>ANANTHAN ANIL</h1>
   <h3>Embedded Systems Engineer</h3>
-
-<div align="center">
-  <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
-    <div>
+  
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 800px; margin: 0 auto;">
+    <div style="text-align: left; flex: 1;">
       <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,bash,git,embedded" height="40" alt="skills" />
     </div>
-    <div>
+    <div style="text-align: right; flex: 1;">
       <a href="mailto:ananthankulathinkara@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
       </a>
@@ -20,7 +19,13 @@
     </div>
   </div>
 </div>
-  
+
+---
+
+<div align="center">
+  <h1>ANANTHAN ANIL</h1>
+  <h3>Embedded Systems Engineer</h3>
+ 
   <div>
     <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,bash,git,embedded" height="40" alt="skills" />
   </div>
