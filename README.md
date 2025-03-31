@@ -11,7 +11,7 @@
       <a href="https://www.linkedin.com/in/ananthan-anil">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="24" alt="LinkedIn"/>
       </a>
-      <a href="https://www.hackerrank.com/profile/ananthankulathi1">
+      <a href="https://www.hackerrank.com/profile/ananthankulathi2">
         <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" height="24" alt="HackerRank"/>
       </a>
     </div>
